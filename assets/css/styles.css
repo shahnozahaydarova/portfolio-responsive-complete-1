@@ -257,7 +257,7 @@ img{
 .about__data{
   text-align: center;
 }
-.about__deckription{
+.about__description{
   margin-bottom: var(--mb-4);
 }
 
@@ -313,34 +313,51 @@ img{
 }
 .skills__bar{
   position: absolute;
-  bottom: -.75rem;
-  height: .25rem;
+  bottom: -.7.5rem;
+  height: .2.5rem;
   background-color: var(--first-color);
 }
 
 .skills__html{
   width: 80%;
+  height: 5px;
+  border-radius: 20%;
+  columns: var(--first-color-dark);
 }
 .skills__js{
   width: 90%;
+  height: 5px;
+  border-radius: 20%;
 }
 .skills__react{
   width: 70%;
+  height: 5px;
+  border-radius: 20%;
 }
 .skills__angular{
   width: 60%;
+  height: 5px;
+  border-radius: 20%;
 }
 .skills__php{
   width: 80%;
+  height: 5px;
+  border-radius: 20%;
 }
 .skills__node{
   width: 70%;
+  height: 5px;
+  border-radius: 20%;
 }
 .skills__firebase{
   width: 90%;
+  height: 5px;
+  border-radius: 20%;
 }
 .skills__python{
   width: 100%;
+  height: 5px;
+  border-radius: 20%;
 }
 /* ===== EDUCATION =====*/
 
